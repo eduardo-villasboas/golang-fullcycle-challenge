@@ -1,6 +1,5 @@
 # Golang challenge
 
-- Repo do desafio: git@github.com:eduardo-villasboas/golang-fullcycle-challenge.git
 - Nome da imagem: eduardovillasboas/fullcycle:latest
 - Url da imagem: https://hub.docker.com/repository/docker/eduardovillasboas/fullcycle/general
 
